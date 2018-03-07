@@ -1,0 +1,10 @@
+name: My Test Blog
+type: theme
+description: This is a test
+core: 8.x
+libraries:
+  - test/style
+regions:
+  header: 'My Header'
+  content: 'Content'
+  
